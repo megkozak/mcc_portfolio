@@ -1,4 +1,4 @@
-/** code by webdevtrick ( https://webdevtrick.com ) **/
+
 (function($) {
   $(function() {
     $('nav ul li a:not(:only-child)').click(function(e) {
