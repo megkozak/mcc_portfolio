@@ -9,7 +9,6 @@ body {
  height: 70px;
  background: #262626;
 }
-
 .brand {
  position: absolute;
  padding-left: 20px;
@@ -18,14 +17,14 @@ body {
  text-transform: uppercase;
  font-size: 1.4em;
 }
-.brand a img {
+.brand img {
  max-height: 70px;
 }
 .brand a,
 .brand a:visited {
  color: #ffffff;
  text-decoration: none;
-}
+} */
 
 .nav-container {
  max-width: 1000px;
@@ -70,7 +69,6 @@ nav ul li ul li a {
  padding: 15px;
  line-height: 20px;
 }
-
 .nav-dropdown {
  position: absolute;
  display: none;
@@ -105,7 +103,7 @@ nav ul li ul li a {
  nav ul li a {
    padding: 15px;
    line-height: 20px;
- padding-left: 25%;
+   padding-left: 25%;
 
  }
  nav ul li ul li a {
@@ -163,9 +161,17 @@ nav ul li ul li a {
 #nav-toggle.active span:after {
  transform: rotate(-45deg);
 }
-
 article {
  max-width: 1000px;
  margin: 0 auto;
  padding: 10px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #262626;
+  color: #84e8e1;
+  text-align: center;
 }
