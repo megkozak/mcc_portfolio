@@ -25,12 +25,10 @@ body {
  color: #ffffff;
  text-decoration: none;
 } */
-
 .nav-container {
  max-width: 1000px;
  margin: 0 auto;
 }
-
 nav {
  float: right;
 }
