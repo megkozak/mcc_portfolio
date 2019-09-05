@@ -3,7 +3,8 @@ body {
  padding: 0;
 }
 * {
- font-family: 'Righteous', cursive;
+ font-family: 'Red Hat Display', sans-serif;
+
 }
 .nav-bar {
  height: 70px;
@@ -46,14 +47,15 @@ nav ul li a:visited {
  display: block;
  padding: 0 20px;
  line-height: 70px;
+ font-size: 1.18em;
  background: #262626;
  color: #ffffff;
  text-decoration: none;
 }
 nav ul li a:hover,
 nav ul li a:visited:hover {
- background: #2ab1ce;
- color: #ffffff;
+ background: #17BBC0;
+ color: #da060c;
 }
 nav ul li a:not(:only-child):after,
 nav ul li a:visited:not(:only-child):after {
@@ -170,6 +172,7 @@ article {
   bottom: 0;
   width: 100%;
   background-color: #262626;
-  color: #84e8e1;
+  color: #17BBC0;
   text-align: center;
+  font-size: 1em;
 }
