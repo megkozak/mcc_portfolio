@@ -6,7 +6,6 @@ body {
 }
 * {
  font-family: 'Red Hat Display', sans-serif;
-
 }
 .nav-bar {
  height: 70px;
@@ -34,6 +33,7 @@ body {
 }
 nav {
  float: right;
+ letter-spacing: 0.1em;
 }
 nav ul {
  list-style: none;
@@ -177,4 +177,5 @@ article {
   color: #17BBC0;
   text-align: center;
   font-size: 0.8em;
+  letter-spacing: 0.1em;
 }
