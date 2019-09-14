@@ -163,12 +163,13 @@ nav ul li ul li a {
 #nav-toggle.active span:after {
  transform: rotate(-45deg);
 }
-#content-main {
+#container-main {
   width: 400px;
   margin: 0 auto;
   background-color: #66ffff;
   text-align: center;
-  padding: 50px;
+  padding: 150px;
+
 }
 
 article {
@@ -176,7 +177,6 @@ article {
  margin: 0 auto;
  padding: 10px;
 }
-
 
 .footer {
   position: fixed;
