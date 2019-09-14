@@ -1,0 +1,9 @@
+Colors used:
+
+#262626 (gray)
+#ffffff (white)
+#2ab1ce (blue)
+#66ffff (lighter turquoise)
+#84e8e1 (seafoam green)
+#da060c (nav bar highlights red)
+#17BBC0 (nav bar background blue)
