@@ -163,6 +163,14 @@ nav ul li ul li a {
 #nav-toggle.active span:after {
  transform: rotate(-45deg);
 }
+#content-main {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #66ffff;
+  text-align: center;
+  padding: 50px;
+}
+
 article {
  max-width: 1000px;
  margin: 0 auto;
