@@ -1,8 +1,9 @@
 @charset "utf-8";
 
-body {
+html, body {
  margin: 0;
  padding: 0;
+ height: 100%;
 }
 * {
  font-family: 'Red Hat Display', sans-serif;
@@ -164,11 +165,11 @@ nav ul li ul li a {
  transform: rotate(-45deg);
 }
 #container-main {
-  width: 400px;
-  margin: 0 auto;
   background-color: #66ffff;
-  text-align: center;
-  padding: 150px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
 }
 
